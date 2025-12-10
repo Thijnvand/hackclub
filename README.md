@@ -5,6 +5,8 @@ PCB and schematic:
 <img width="801" height="783" alt="image" src="https://github.com/user-attachments/assets/428503b9-2a58-47ef-b3e9-5bd5757a287e" />
 
 CAD model:
-<img width="1013" height="607" alt="image" src="https://github.com/user-attachments/assets/00e55dc3-c9e3-4ae9-8d0a-3b74bc4582f8" />
-<img width="940" height="548" alt="image" src="https://github.com/user-attachments/assets/a24a89a4-f13d-4f7d-b7d3-4b4423f7fdce" />
+<img width="904" height="529" alt="image" src="https://github.com/user-attachments/assets/962d1cec-a910-4ec2-82a7-aab56174d8a7" />
+<img width="934" height="610" alt="image" src="https://github.com/user-attachments/assets/889d7df6-2fbe-4b5e-909c-76ed39211e0c" />
+
+
 <img width="843" height="554" alt="image" src="https://github.com/user-attachments/assets/9e8d6452-6d76-4663-9a65-1d60e44d5300" />

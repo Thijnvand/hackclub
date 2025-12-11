@@ -1,4 +1,4 @@
-# hackclub
+# Thijns Macropad
 I have made a hackpad using Fusion and KiCad. I have made a simple construction with 4 keys, 7 LEDs, and an OLED screen. I put the LEDs next to the switches so they can tell which switch has been pressed, and I put three LEDs at the bottom. Also, above the switches is an OLED screen which can display various things. The bottom part of the case is just a simple holder for the PCB with holes in it for heat-set inserts. I had never used KiCad before in my life, so with a few YouTube videos and various hours of trial and error, I made my PCB. I had experience with CAD software, but not with Fusion, but that part went relatively well.
 
 Overall, I like my creation and gained some skills from using KiCad and Fusion!
